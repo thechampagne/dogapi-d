@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"XXIV"
+	],
+	"copyright": "Copyright © 2022, XXIV",
+	"description": "Dog API client",
+	"homepage": "https://github.com/thechampagne/dogapi-d",
+	"license": "Apache-2.0",
+	"name": "dogapi",
+	"libs": ["curl"]
+}
